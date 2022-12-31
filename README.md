@@ -17,7 +17,7 @@ The function is intended to put the same products, which visually look the same,
 
 | Before                  | After                                                                             |
 |-------------------------|-----------------------------------------------------------------------------------|
-| <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\1 img.jpg" width="350"/> | <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\2 img.jpg" width="350"/> |
+| <img src="[C:\Users\Vik\Desktop\baigiamasis\Final project\1 img.jpg](https://github.com/vikcia/Final-project/blob/master/1%20img.jpg)" width="350"/> | <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\2 img.jpg" width="350"/> |
 | <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\5 img.jpg" width="350"/> | <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\3 img.jpg" width="350"/> |                         |
 
 ## How it works
