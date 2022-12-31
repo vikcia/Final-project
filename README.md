@@ -23,8 +23,8 @@ The function is intended to put the same products, which visually look the same,
 ## How it works
 
 1. Creating attribute "Produkto variacijos" in database. Function will work only if selected.
-<img src="C:\Users\Vik\Desktop\baigiamasis\Final project\creating attribute in db.jpg"/>
+![creating attribute in db](https://user-images.githubusercontent.com/104791026/210152499-3735753c-6715-4674-bcaa-da07c8e5ff4a.jpg)
 2. Creating checkbox with selections in master product. By selecting option will change main price.
-<img src="C:\Users\Vik\Desktop\baigiamasis\Final project\4 img.jpg"/>
+![4 img](https://user-images.githubusercontent.com/104791026/210152526-40414cb7-8b37-4326-871b-ce37b540df7d.jpg)
 3. Taking minimum and maximum price value from database and puts into price window where product has "Product variation".
-<img src="C:\Users\Vik\Desktop\baigiamasis\Final project\6 img.jpg"/>
+![6 img](https://user-images.githubusercontent.com/104791026/210152547-4f1a7ddb-14c5-4af1-93af-a59c3dbe1ffb.jpg)
