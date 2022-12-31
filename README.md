@@ -15,10 +15,10 @@ https://www.smarty.net/
 The function is intended to put the same products, which visually look the same, but for example with different power, put inside one product.
 
 
-| Before                  | After                                                                                                       |
-|-------------------------|-------------------------------------------------------------------------------------------------------------|
-| <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\1 img.jpg" width="350"/> | <img alt="After" src="C:\Users\Vik\Desktop\baigiamasis\Final project\2 img.jpg" title="After" width="350"/> |
-| <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\5 img.jpg" width="350"/> | <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\3 img.jpg" width="350"/>                           |                         |
+| Before                  | After                                                                             |
+|-------------------------|-----------------------------------------------------------------------------------|
+| <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\1 img.jpg" width="350"/> | <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\2 img.jpg" width="350"/> |
+| <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\5 img.jpg" width="350"/> | <img src="C:\Users\Vik\Desktop\baigiamasis\Final project\3 img.jpg" width="350"/> |                         |
 
 ## How it works
 
