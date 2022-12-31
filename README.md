@@ -18,7 +18,7 @@ The function is intended to put the same products, which visually look the same,
 | Before                  | After                                                                             |
 |-------------------------|-----------------------------------------------------------------------------------|
 | ![1 img](https://user-images.githubusercontent.com/104791026/210152363-dba56b9f-aacd-4f46-8a4f-7e349f5242cf.jpg) | ![2 img](https://user-images.githubusercontent.com/104791026/210152389-bd368f9b-4ce5-4f22-a019-7635299e574b.jpg)
-| ![3 img](https://user-images.githubusercontent.com/104791026/210152402-8c185323-226c-4d7c-a5d6-a76cbc120575.jpg) | ![4 img](https://user-images.githubusercontent.com/104791026/210152410-e8a59d33-909d-4633-90bd-779284301b04.jpg)
+| ![5 img](https://user-images.githubusercontent.com/104791026/210152468-fa3f502f-6309-4136-9ce7-a2ef6c8c881e.jpg) | ![3 img](https://user-images.githubusercontent.com/104791026/210152402-8c185323-226c-4d7c-a5d6-a76cbc120575.jpg)
 
 ## How it works
 
