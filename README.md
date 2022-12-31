@@ -13,7 +13,7 @@ https://www.smarty.net/
 ## PRODUCT VARIATION FUNCTION description
 
 The function is intended to put the same products, which visually look the same, but for example with different power, put inside one product.
-
+![alt text]([http://url/to/img.png](https://github.com/vikcia/Final-project/blob/master/1%20img.jpg))
 
 | Before                  | After                                                                             |
 |-------------------------|-----------------------------------------------------------------------------------|
